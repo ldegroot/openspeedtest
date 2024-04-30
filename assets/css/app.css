@@ -55,7 +55,7 @@ html {
 color: rgb(125 119 119);
 text-align: center;
 font-size:14px;
-font-family: Roboto-Medium, Roboto;
+font-family: Roboto-Medium, Roboto, Arial;
 font-weight: 500;
 } 
 .Credits a {
@@ -108,13 +108,13 @@ color: #14b0fe;
 .oDo-Meter {
   font-size: 16.633283615112305px;
   fill: gray;
-  font-family: Roboto-Medium, Roboto;
+  font-family: Roboto-Medium, Roboto, Arial;
   font-weight: 500;
 }
 .oDoLive-Speed {
   font-size: 28px;
   fill: #201e1e;
-  font-family: Roboto-Medium, Roboto;
+  font-family: Roboto-Medium, Roboto, Arial;
   font-weight: 500;
   text-anchor: middle;
 }
@@ -122,7 +122,7 @@ color: #14b0fe;
 .oDoLive-Status {
   font-size: 10px;
   fill: #d2d1d2;
-  font-family: Roboto-Medium, Roboto;
+  font-family: Roboto-Medium, Roboto, Arial;
   font-weight: 500;
   text-anchor: middle;
 }
@@ -146,27 +146,27 @@ color: #14b0fe;
 .rtext {
   font-size: 12px;
   fill: #333;
-  font-family: Roboto-Medium, Roboto;
+  font-family: Roboto-Medium, Roboto, Arial;
   font-weight: 500;
 }
 .rtextnum {
   font-size: 23px;
   fill: #201e1e;
-  font-family: Roboto-Medium, Roboto;
+  font-family: Roboto-Medium, Roboto, Arial;
   font-weight: 500;
   text-anchor: middle;
 }
 .rtextmbms {
   font-size: 12px;
   fill: #5f5f5f;
-  font-family: Roboto-Medium, Roboto;
+  font-family: Roboto-Medium, Roboto, Arial;
   font-weight: 500;
   text-anchor: middle;
 }
 .jitter-Mob {
   font-size: 9px;
   fill: #5f5f5f;
-  font-family: Roboto-Medium, Roboto;
+  font-family: Roboto-Medium, Roboto, Arial;
   font-weight: 500;
   text-anchor: middle;
 }
@@ -180,7 +180,7 @@ color: #14b0fe;
 .buttonTxt {
   font-size: 40px;
   fill: #ffffff;
-  font-family: Roboto-Medium, Roboto;
+  font-family: Roboto-Medium, Roboto, Arial;
   font-weight: 500;
   text-anchor: middle;
 }
@@ -241,7 +241,7 @@ color: #14b0fe;
 .oDoTop-Speed {
   font-size: 16.96px;
   fill: gray;
-  font-family: Roboto-Medium, Roboto;
+  font-family: Roboto-Medium, Roboto, Arial;
   font-weight: 500;
   text-anchor: end;
 }
@@ -265,7 +265,7 @@ color: #14b0fe;
 #ipMob {
   font-size: 15px;
   fill: #201e1e;
-  font-family: Roboto-Medium, Roboto;
+  font-family: Roboto-Medium, Roboto, Arial;
   font-weight: 500;
   text-anchor: middle;
   display: none;
@@ -273,7 +273,7 @@ color: #14b0fe;
 #ipDesk {
   font-size: 15px;
   fill: #201e1e;
-  font-family: Roboto-Medium, Roboto;
+  font-family: Roboto-Medium, Roboto, Arial;
   font-weight: 500;
   text-anchor: middle;
   display: none;
